@@ -1,0 +1,8 @@
+name: kintsugime
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The mending that gilds the break, so the history of damage becomes the most precious line in the vessel.
+dependsOn: [youspeak, me, shevirame, tikkunme, hanme]
